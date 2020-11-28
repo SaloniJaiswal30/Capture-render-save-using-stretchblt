@@ -1,1 +1,1 @@
-# Cature-render-save-using-stretchblt
+# Capture-render-save-using-stretchblt
